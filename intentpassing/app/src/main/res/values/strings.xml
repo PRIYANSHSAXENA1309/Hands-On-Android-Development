@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent Passing</string>
+    <string name="next">Next Page</string>
+    <string name="txt">name</string>
+</resources>
