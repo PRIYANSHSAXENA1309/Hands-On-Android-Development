@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerList</string>
+    <string name="id">Select an Address ID proof</string>
+    <string name="id1">Enter an Address ID proof</string>
+</resources>

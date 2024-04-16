@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen Compatibility</string>
+    <string name="st1">Home Screen</string>
+    <string name="st2">Login/Sign Up</string>
+    <string name="st3">About Us</string>
+
+</resources>
